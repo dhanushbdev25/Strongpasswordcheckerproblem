@@ -1,4 +1,4 @@
-#Strong password checker solution in javascript with unit testing using JEST.
+# Strong password checker solution in javascript with unit testing using JEST.
 
 A password is considered strong if the below conditions are all met:
 
