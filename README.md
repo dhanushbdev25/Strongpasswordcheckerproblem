@@ -1,3 +1,5 @@
+#Strong password checker solution in javascript with unit testing using JEST.
+
 A password is considered strong if the below conditions are all met:
 
 It has at least 6 characters and at most 20 characters.
