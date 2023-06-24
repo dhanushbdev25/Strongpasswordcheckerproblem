@@ -1,0 +1,16 @@
+{
+  "name": "passwordchecker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "passwordChecker.js",
+  "scripts": {
+    "test": "jest unitTest.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
